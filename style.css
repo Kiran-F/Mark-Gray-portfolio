@@ -65,7 +65,7 @@ header h2{
 }
 main{
     color: white; 
-    position: absolute; 
+    position: absolute;
     /* top: 50px; */
 }
 .dp{
@@ -441,8 +441,6 @@ header .btn:hover{
         right: -30px;
         transition: 0.5s right;
     }
-}
-@media screen and (max-width: 380px){
     .project {
         width: 100%;
     }
@@ -452,8 +450,6 @@ header .btn:hover{
         justify-content: center;
         align-items: center;
     }
-}
-@media screen and (max-width: 380px){
     #cross{
         position: relative;
         left: 10pc;
